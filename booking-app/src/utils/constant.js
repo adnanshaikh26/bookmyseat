@@ -1,0 +1,18 @@
+export const seats = [
+  { id: "A1", row: "A", number: 1, isBooked: false, isSelected: false },
+  { id: "A2", row: "A", number: 2, isBooked: true, isSelected: false },
+  { id: "A3", row: "A", number: 3, isBooked: false, isSelected: false },
+  { id: "A4", row: "A", number: 4, isBooked: false, isSelected: false },
+  { id: "A5", row: "A", number: 5, isBooked: true, isSelected: false },
+  { id: "A6", row: "A", number: 6, isBooked: false, isSelected: false },
+  { id: "A7", row: "A", number: 7, isBooked: false, isSelected: false },
+  { id: "A8", row: "A", number: 8, isBooked: false, isSelected: false },
+  { id: "B1", row: "B", number: 1, isBooked: false, isSelected: false },
+  { id: "B2", row: "B", number: 2, isBooked: false, isSelected: false },
+  { id: "B3", row: "B", number: 3, isBooked: true, isSelected: false },
+  { id: "B4", row: "B", number: 4, isBooked: false, isSelected: false },
+  { id: "B5", row: "B", number: 5, isBooked: false, isSelected: false },
+  { id: "B6", row: "B", number: 6, isBooked: true, isSelected: false },
+  { id: "B7", row: "B", number: 7, isBooked: false, isSelected: false },
+  { id: "B8", row: "B", number: 8, isBooked: false, isSelected: false },
+];
